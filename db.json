@@ -1,0 +1,32 @@
+{
+  "sightings": [
+    {
+      "species": "Alauda arvensis",
+      "timestamp": "2023-11-27T22:37",
+      "author": "Matti Kinnunen",
+      "coordinates": "61.49654141702026, 23.72667594895696",
+      "id": 1
+    },
+    {
+      "species": "Pyrrhula pyrrhula",
+      "timestamp": "2022-10-25T11:26",
+      "author": "Liisa Nieminen",
+      "coordinates": "61.496700713762905, 23.72518283454705",
+      "id": 2
+    },
+    {
+      "species": "Dendrocopos major",
+      "timestamp": "2023-08-19T17:39",
+      "author": "Pirkka-Mikko Putelius",
+      "coordinates": "61.51095339194863, 23.80335451368955",
+      "id": 3
+    },
+    {
+      "species": "Alauda arvensis",
+      "timestamp": "2024-04-05T20:51",
+      "author": "Mickel Mackelson",
+      "coordinates": "61.50283725722068, 23.723241986706416",
+      "id": 4
+    }
+  ]
+}

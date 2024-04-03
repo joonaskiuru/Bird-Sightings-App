@@ -1,0 +1,34 @@
+.sighting {
+    margin: 1vh;
+    background-color: #F6EEE5;
+    font-size: 1.5em;
+    color: #3081D0;
+    padding: 0.5em;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+.sighting-list {
+    margin: 2em auto;
+    padding: 1em;
+    background-color: lightgray;
+    border-radius: 3px;
+}
+
+.category-list {
+    display: flex;
+    margin: auto 2em;
+    padding: 1em;
+    background-color: lightgray;
+    border-radius: 3px;
+}
+.category-list button {
+    display: inline-block;
+    font-size: large;
+    margin: auto 0.3em;
+    padding: 1em
+}
+
+.category-list li {
+    display: inline-block;
+}
